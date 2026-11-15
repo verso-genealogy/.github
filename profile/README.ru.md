@@ -33,10 +33,8 @@
 
 ## С чего начать
 
-- [Быстрый старт](https://github.com/verso-genealogy/verso#quick-start) — игрушечное село от начала до конца
-- [DSL](https://github.com/verso-genealogy/verso/blob/main/docs/dsl.md) ·
-  [Команды](https://github.com/verso-genealogy/verso/blob/main/docs/reference/commands.md)
-- [Как участвовать](https://github.com/verso-genealogy/verso/blob/main/CONTRIBUTING.md) ·
+- [Быстрый старт](https://github.com/verso-genealogy/verso/blob/main/README.ru.md#быстрый-старт) — игрушечное село от начала до конца
+- [DSL](https://github.com/verso-genealogy/verso/blob/main/docs/dsl.ru.md) ·
+  [Команды](https://github.com/verso-genealogy/verso/blob/main/docs/reference/commands.md) (на английском)
+- [Как участвовать](https://github.com/verso-genealogy/verso/blob/main/CONTRIBUTING.ru.md) ·
   [Безопасность](https://github.com/verso-genealogy/verso/security)
-
-Документация библиотеки пока только на английском.
