@@ -1,6 +1,6 @@
 # Verso
 
-**Genealogical records of the Russian Empire, written as code.**
+**Family history from Russian archives, written as code.**
 
 [По-русски →](https://github.com/verso-genealogy/.github/blob/main/profile/README.ru.md)
 
